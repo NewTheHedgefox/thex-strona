@@ -1,0 +1,8 @@
+#Group 1
+User-agent: *
+Allow: /
+
+#Group 2
+User-agent: Googlebot
+Allow: /
+Sitemap: https://www.newthefox.tk/sitemap.xml
